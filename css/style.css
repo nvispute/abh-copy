@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  #about {
+    background-size: cover;
+  }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width: 321px) {
+  /* STYLES GO HERE */
+  #about {
+    background-size: cover;
+  }
+}
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width: 320px) {
+  /* STYLES GO HERE */
+  #about {
+    background-size: cover;
+  }
+}
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  /* STYLES GO HERE */
+  #about {
+    background-size: cover;
+  }
+}
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+  /* STYLES GO HERE */
+  #about {
+    background-size: cover;
+  }
+}
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+  /* STYLES GO HERE */
+  #about {
+    background-size: cover;
+  }
+}
+/* Desktops and laptops ----------- */
+@media only screen and (min-width: 1224px) {
+  /* STYLES GO HERE */
+  #about {
+    background-size: 100% 100%;
+  }
+}
+/* Large screens ----------- */
+@media only screen and (min-width: 1824px) {
+  /* STYLES GO HERE */
+  #about {
+    background-size: 100% 100%;
+  }
+}
+/* iPhone 5 (portrait & landscape)----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  /* STYLES GO HERE */
+  #about {
+    background-size: cover;
+  }
+}
+/* iPhone 5 (landscape)----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: landscape) {
+  #about {
+    background-size: cover;
+  }
+}
+/* iPhone 5 (portrait)----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: portrait) {
+  /* STYLES GO HERE */
+  #about {
+    background-size: cover;
+  }
+}
